@@ -8,3 +8,8 @@ This MySQL database can be interacted with using API calls.
 
 
 Front End Link: https://github.com/DrewWalt/Server-Front-End.git
+
+
+Must go into application.yml folder foound in Server-Back-End/src/main/resources/ and change the password, username, and url to apply to your database.
+
+Run ServerApplication.java found in Server-Back-End/src/main/java/io/gateways/server/ to run the back end.
